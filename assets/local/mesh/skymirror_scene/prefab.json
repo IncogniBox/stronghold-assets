@@ -1,0 +1,4 @@
+[
+ {"name":"BG_Scene_Main","parent":null,"pos":[0,0,0],"rot":[0,0,0,1],"scale":[1,1,1],"mesh":"outworld_main","materials":["MT_SkyMirror"]},
+ {"name":"BG_Scene_Wood","parent":null,"pos":[0,0,0],"rot":[0,0,0,1],"scale":[1,1,1],"mesh":"outworld_wood","materials":["MT_SkyMirror_Wood"]}
+]
